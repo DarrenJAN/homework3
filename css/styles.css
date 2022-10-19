@@ -186,13 +186,6 @@ img{
 
 @media all and (min-width: 800px){
 
-  .skip a:focus{
-    position: absolute;
-    left: 0;
-    top: 20px;
-    z-index: 1;
-  }
-
   .container{
     /*Your code here */
     /* See documentation for desktop view */
